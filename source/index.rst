@@ -1,7 +1,7 @@
-Welcome to Final Project's documentation!
-=========================================
+Welcome to Indianola Destinations!
+==================================
 
-Put some info about your final project here
+Featured on this website are popular destinations around Indianola Iowa from Ice Cream to the famous Balloon Museum.
 
 .. toctree::
    :maxdepth: 2
