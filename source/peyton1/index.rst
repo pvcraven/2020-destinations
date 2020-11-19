@@ -1,6 +1,6 @@
-Chapter 1
+Simpson College
 =========
 
-Put some text here.
+Simpson College was established in 18??.
 
 
