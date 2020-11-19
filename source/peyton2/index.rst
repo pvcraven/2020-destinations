@@ -1,5 +1,5 @@
-Chapter 2
-=========
+Corner Sundry
+=============
 
 Put some text here.
 
