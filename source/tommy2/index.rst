@@ -1,6 +1,6 @@
-Chapter 8
-=========
+Outside Scoop
+=============
 
-Put some text here.
+This is Tommy's page.
 
 
