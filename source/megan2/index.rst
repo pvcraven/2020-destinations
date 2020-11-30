@@ -1,4 +1,4 @@
 Dairy Queen
 ===========
 
-This is Megan's Page.
+You get ice cream here.
