@@ -39,10 +39,27 @@ Any facilites can be rented through the `park reservation system <https://iowast
 Ahquabi Activities
 """"""""""""""""""
 
-Trails
-^^^^^^
-There is a large looped trail around the lake that is approximately 4 miles. There are other, smaller trails that make up another 2 or so miles, all of the paths are gravel or rough dirt. Hikers and mountain bikers are very fond of these trails and can often be seen traveling them. The trails can be seen on the map above.
+On Land
+^^^^^^^
+Hiking or riding on **trails** is the most popular land-based activity in the park. There is a large looped trail around the lake that is approximately 4 miles. There are other, smaller trails that make up another 2 or so miles, all of the paths are gravel or rough dirt. Hikers and mountain bikers are very fond of these trails and can often be seen traveling them. The trails can be seen on the map above.
 
+
+
+In Water
+^^^^^^^^
+The lake has a large sandy beach, making it perfect for a lounge day on the sand or a dip in the lake. **Swimming** is a very popular activity at Lake Ahquabi, especially with families and young adults. The beach and lake is unsupervised, meaning there are no lifeguards on watch, so swim at your own risk.
+
+.. note::
+	The boat speed is **no-wake** while on the water.
+
+
+There are two **boat** ramps in the Ahquabi State Park's territory: one is located on the northern end and one is by the campground. If you do not have your own boat, you can rent one from the concessionaire, which is located near the beach. Other items you can rent include:
+
+* canoes
+* kayaks
+* paddleboats
+
+Snacks are also readily available through the concessionaire, along with fish bait and firewood. **Fishing** is rather common at this lake, especially with anglers. The lake has many fishing jetties to use and an easily-accessible fishing pier.
 
 """"""""
 Wildlife
