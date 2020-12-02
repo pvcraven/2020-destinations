@@ -33,7 +33,7 @@ There is also the stone lodge that has a great view of the lake. It is a popular
 
 There is one campground that contains a number of smaller campsites within. The campground is located close to the shore of Lake Ahquabi. Near the campsites are electrical hookup stations, up-to-date restrooms (and showers), along with two dump stations for trailers and campers. Each designated campsite contains a firepit/fireplace and a picnic table. There is a playground located close by for the children to play on.
 
-Any facilites can be rented through the `park reservation system <https://iowastateparks.reserveamerica.com//>`_. 
+Any facilites can be rented through the `park reservation system <https://iowastateparks.reserveamerica.com//>`_ or through `Iowa State Parks website <https://iowastateparks.reserveamerica.com/camping/lake-ahquabi-state-park/r/campgroundDetails.do?contractCode=IA&parkId=610149/>`_.
 
 """"""""""""""""""
 Ahquabi Activities
@@ -43,6 +43,7 @@ On Land
 ^^^^^^^
 Hiking or riding on **trails** is the most popular land-based activity in the park. There is a large looped trail around the lake that is approximately 4 miles. There are other, smaller trails that make up another 2 or so miles, all of the paths are gravel or rough dirt. Hikers and mountain bikers are very fond of these trails and can often be seen traveling them. The trails can be seen on the map above.
 
+Due to the immense amounts of wildlife found in the park, **bird watching** is a common occurence, especially with the elder folk. There are other **wildlife viewing** services and pamphlets as well. Within one mile from Lake Ahquabi is a nature center.
 
 
 In Water
@@ -59,7 +60,7 @@ There are two **boat** ramps in the Ahquabi State Park's territory: one is locat
 * kayaks
 * paddleboats
 
-Snacks are also readily available through the concessionaire, along with fish bait and firewood. **Fishing** is rather common at this lake, especially with anglers. The lake has many fishing jetties to use and an easily-accessible fishing pier.
+Snacks are also readily available through the concessionaire, along with fish bait and firewood. **Fishing** is rather common at this lake, especially with anglers. The lake has many fishing jetties to use and an easily-accessible fishing pier. There is also a fish-cleaning station open for use.
 
 """"""""
 Wildlife
