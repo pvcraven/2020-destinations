@@ -69,3 +69,37 @@ Dairy Queen
 	*Pick 1: Drink*
 
 	*Pick 1: Free Treat*
+
+**Treats**
+
+* Blizzard Treats
+	*Limited Time*
+
+	*Signature Creations*
+
+	*Candy Classics*
+
+	*Royal*
+
+* Hot Desserts
+	*Triple Chocolate Brownie*
+
+	*Fudge Stuffed Cookie*
+
+* Classic Treats
+	*Cones*
+
+	*Sundaes*
+
+	*Royal Treats*
+
+	*Novelties*
+
+**Fan Food At Your Fingertips**
+
+	*Download the Dairy Queen moblie app to get exclusive deals, find locations, and more*
+
+	*Order Ahead to save time and skip the line. Browse the menu, customize your order, and choose how you want to pick it up*
+
+
+
