@@ -73,10 +73,35 @@ GIVE BACK
 
 		*The YMCA provides permanent supportive housing to members of the community in need of hope and support. 18,000 individuals given access through scholarships. 100,000 people served in Central Iowa.*
 
+**Join the YMCA**
+
+When you join the Y, you'll discover new ways to connect with your potential, purpose and community. No matter where you are on your journey, the Y is where you can be, belong and become. Join the YMCA.
+
+**Benefits of Being a Member**
+
+*There are multiple facilites, fitness classes, discounts on programs, wellness orientations, free youth enrichment programs, and nationwide access to all YMCA's.*
+
+
++-------------------+------------------+
+|Memebership Rates  | Per/Month        |
++-------------------+------------------+
+|Adults (19-64)     | $61/month        |
++-------------------+------------------+
+|2 Adults           | $83.50/month     |
++-------------------+------------------+
+|Family             | $92/month        |
++-------------------+------------------+
+|College Student    | $35/month        |
++-------------------+------------------+
+|Youth (9-18)       | $20/month        |
++-------------------+------------------+
+|Senior (65+)       | $49/month        |
++-------------------+------------------+
 
 
 
 
 
-YMCA of Greater Des Moines. All Rights Reserve.
-501 Grand Avenue Des Monies, IA 50309, 515.282.9622
+.. rubric:: Footnotes
+
+.. [#f1] YMCA of Greater Des Moines. <https://www.dmymca.org/>
