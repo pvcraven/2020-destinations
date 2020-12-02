@@ -18,7 +18,7 @@ Live music is the perfect attraction for those who don’t really like sports as
 much. 
 
 Menu 
---------
+----
 
 **Sports Page Bar and Grill** has been voted for best burger of 
 Warren County many times. They offer much more than just burgers 
@@ -38,7 +38,7 @@ along with wings and chicken-based dishes. For the kids, they have the
 strips and more. For more menu items, `click here`_.  
 
 Reviews
------------
+-------
 
 The Sports Page bar and Grill is full of good reviews from customers.
 The restaurant received a 3.8 out of 5 stars. Most of the reviews 
@@ -48,7 +48,7 @@ better food and atmosphere.
 
 
 Job Opportunities
------------------------
+-----------------
 
 Sports Page Bar and Grill would be a great opportunity for any Simpson 
 student to have a fun job. In the past, students have worked here and 
@@ -67,7 +67,7 @@ Sports Page Hours
 .. note::
    **COVID-19 restrictions may apply.**
 
-.. [#f1] "`Sports Page Bar and Grill Sports Page [Personal photograph taken in Sports Page Bar and Grill, Indianola, IA]. (2020, November 18)..
+.. [#f1] "`Sports Page Bar and Grill Sports Page [Personal photograph taken in Sports Page Bar and Grill, Indianola, IA]. (2020, November 18)`..
 .. _click here: https://thesportspagegrill.com/pdf/2018/Sports-Page-Menu-2018-NEW.pdf
 
 
