@@ -15,18 +15,16 @@ The park in total is about 770 acres and is located about 6 miles from Indianola
 
 	Iowa Department of Natural Resources [#f1]_
 
-"""
 Map
-"""
+---
 
 .. figure:: ahquabimap.png
 	:height: 1300px
 	:scale: 50%
 	:align: center
 
-""""""""""""""""""""""
 Facilities & Campsites
-""""""""""""""""""""""
+----------------------
 Many of the facilities or other man-made structures were built in the era of the Great Depression (1930s) by the Civilian Conservation Corps. There are three open shelters that are open to the public for picnics and are able to be reserved for large gatherings. 
 
 There is also the stone lodge that has a great view of the lake. It is a popular rental place for reunions, weddings, and graduation parties. 
@@ -35,9 +33,8 @@ There is one campground that contains a number of smaller campsites within. The 
 
 Any facilites can be rented through the `park reservation system <https://iowastateparks.reserveamerica.com//>`_ or through `Iowa State Parks website <https://iowastateparks.reserveamerica.com/camping/lake-ahquabi-state-park/r/campgroundDetails.do?contractCode=IA&parkId=610149/>`_.
 
-""""""""""""""""""
 Ahquabi Activities
-""""""""""""""""""
+------------------
 
 On Land
 ^^^^^^^
@@ -62,9 +59,8 @@ There are two **boat** ramps in the Ahquabi State Park's territory: one is locat
 
 Snacks are also readily available through the concessionaire, along with fish bait and firewood. **Fishing** is rather common at this lake, especially with anglers. The lake has many fishing jetties to use and an easily-accessible fishing pier. There is also a fish-cleaning station open for use.
 
-""""""""
 Wildlife
-""""""""
+--------
 Lake Ahquabi and the surrounding reserve are full of foliage and fauna alike. There are herds of whitetail deer, along with a variety of birds (including the state bird, the goldfinch!). In and around the lake, chirping frogs can be seen and heard. 
 
 The lake has an abundance of fish, and fishing is a popular activity to partake in. These fish are present within the waters:
