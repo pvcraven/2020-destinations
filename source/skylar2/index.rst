@@ -1,6 +1,9 @@
 National Balloon Museum
 =======================
 
+Welcome to the National Balloon Museum, here, we aim for the sky, and hope to educate
+the State of Iowa about the art of Ballooning!
+
 :: warning ::
 Due to Covid-19, the hours of this location may vary. Masks required for any visit. 
 We are required to follow the guidelines of the CDC, no entry permitted without a mask.
@@ -18,14 +21,13 @@ We are required to follow the guidelines of the CDC, no entry permitted without 
 +------------+------------------+
 
 
-
-
 **Admission**
 
 * General Admission : $5
 * Visitors under 12 : FREE
 
-*Group Guided Tour*
+Group Guided Tour
+-----------------
 Our Group Guided Tours are available for people of all ages. On this tour, your group 
 will tour our facilities with an educated tour guide. From our theater to our balloons, 
 you can see it all. 
@@ -99,4 +101,7 @@ a "book basket", video games, and a balloon where you can get your picture taken
 
 **Location**
 Our museum is located on 1601 North Jefferson Way, Indianola IA, 50125.
+
+:ref: 
+Skylar Warmbier. 
 
