@@ -21,5 +21,7 @@ Featured on this website are popular destinations around Indianola Iowa from Ice
    dairyqueen/index
    summerset/index
    balloon/index
+   pickard/index
+   summerset_trail/index
 
 
