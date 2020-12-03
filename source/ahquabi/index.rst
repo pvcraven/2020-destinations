@@ -4,7 +4,10 @@ Lake Ahquabi
 .. warning::
 	Lake Ahquabi and the surrounding park will be closed beginning August 9, 2021 due to renovation. The water levels of the lake will be very low during this time.
 
-**Lake Ahquabi** is a state park located near Indianola, Iowa. The word "ahquabi" originates from the Native American tribes *Sauk* and *Fox* and means "resting place". The park was dedicated to political cartoonist and conservationist J.N. "Ding" Darling in 1936. 
+**Lake Ahquabi** is a state park located near Indianola, Iowa. The word 
+"ahquabi" originates from the Native American tribes *Sauk* and *Fox* and means 
+"resting place". The park was dedicated to political cartoonist and 
+conservationist J.N. "Ding" Darling in 1936. 
 
 The park in total is about 770 acres and is located about 6 miles from Indianola.
 
@@ -18,7 +21,7 @@ The park in total is about 770 acres and is located about 6 miles from Indianola
 Map
 ---
 
-.. figure:: ahquabimap.png
+.. image:: ahquabimap.png
 	:height: 1300px
 	:scale: 50%
 	:align: center
@@ -29,7 +32,8 @@ Many of the facilities or other man-made structures were built in the era of the
 
 There is also the stone lodge that has a great view of the lake. It is a popular rental place for reunions, weddings, and graduation parties. 
 
-There is one campground that contains a number of smaller campsites within. The campground is located close to the shore of Lake Ahquabi. Near the campsites are electrical hookup stations, up-to-date restrooms (and showers), along with two dump stations for trailers and campers. Each designated campsite contains a firepit/fireplace and a picnic table. There is a playground located close by for the children to play on.
+There is one campground that contains a number of smaller campsites within. The 
+campground is located close to the shore of Lake Ahquabi. Near the campsites are electrical hookup stations, up-to-date restrooms (and showers), along with two dump stations for trailers and campers. Each designated campsite contains a firepit/fireplace and a picnic table. There is a playground located close by for the children to play on.
 
 Any facilites can be rented through the `park reservation system <https://iowastateparks.reserveamerica.com//>`_ or through `Iowa State Parks website <https://iowastateparks.reserveamerica.com/camping/lake-ahquabi-state-park/r/campgroundDetails.do?contractCode=IA&parkId=610149/>`_.
 
