@@ -11,7 +11,7 @@ Outside Scoop
 
 *They offer great hospitality and are extremely welcoming to their customers*
 
-*This customer serivce is just a bonus to the amazing hand crafted ice cream they server.*
+*This customer service is just a bonus to the amazing handcrafted ice cream they serve.*
 
 *They offer plenty of outdoor and seating for those hot summer days but also have some indoor heating if you are visiting them in the fall.*
 
@@ -50,11 +50,11 @@ Specialty Flavors
 
 **Raspberry Sorbet** 
 
-*This unique flavor offers an enriching exeprience for your taste buds. It melts on your on contact making you feel like you just ate a handful of raspberries. IT is also one of many vegan flavors.*
+*This unique flavor offers an enriching experience for your taste buds. It melts in your on contact making you feel like you just ate a handful of raspberries. It is also one of many vegan flavors.*
 
-**Salted White Chocolate Carmel Cashew**
+**Salted White Chocolate Caramel Cashew**
 
-*This combination of sweets makes for a great post-test treat. You can immediately taste the carmel and as it melts you get that sense of white choclate, finally chewing on the salted cashews.*
+*This combination of sweets makes for a great post-test treat. You can immediately taste the carmel and as it melts you get that sense of white chocolate, finally chewing on the salted cashews.*
 
 **Elvis' Peanut Butter Banana Bacon**
 
