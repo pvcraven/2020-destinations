@@ -11,23 +11,23 @@ Pickard Sports Complex
 
 Electricity, water and restrooms are available between April 15 - October 15.
 
-+----------------+-----------------------+
-| Information    |                       |
-+================+=======================+
-| Location       | | Pickard Park        |
-|                | | 2205 E 2nd Ave      |
-|                | | Indianola, IA, 50125|
-+----------------+-----------------------+
-| Phone          | 515-961-9420          |
-+----------------+-----------------------+
-| Max Capacity   | 150                   |
-+----------------+-----------------------+
++------------------+-----------------------+
+| *Information*    |                       |
++==================+=======================+
+| *Location*       | | Pickard Park        |
+|                  | | 2205 E 2nd Ave      |
+|                  | | Indianola, IA, 50125|
++------------------+-----------------------+
+| *Phone*          | 515-961-9420          |
++------------------+-----------------------+
+| *Max Capacity*   | 150                   |
++------------------+-----------------------+
 
-+--------------------+------------------+
-| Hours of Operation | (Default)        |
-+====================+==================+
-| Sunday-Monday      | 6am - 10pm       |
-+--------------------+------------------+
++----------------------+-------------------+
+| *Hours of Operation* | (Default)         |
++======================+===================+
+| *Sunday-Monday*      | 6am - 10pm        |
++----------------------+-------------------+
 
 
 
@@ -52,7 +52,7 @@ Sports
 Softball & Baseball
 ^^^^^^^^^^^^^^^^^^^
 
-At **Pickard Park**, there are four adult softball fields and two youth softball fields available. All of these fields can be used as a baseball field, as the park has removable pitching mounds.
+At **Pickard Park**, there are 4 adult softball fields and 2 youth softball fields available. All of these fields can be used as a baseball field, as the park has removable pitching mounds.
 
 .. figure:: baseball.jpeg
    :height: 1800px
@@ -61,7 +61,7 @@ At **Pickard Park**, there are four adult softball fields and two youth softball
    :alt: alternate text
    :align: center
 
-   Baseball Game [#f2]_ 
+   Baseball Game [#f1]_ 
 
 The **Indianola Park and Rec Youth and Adult Softball Teams** reserve the fields for practice times at coach and manager meetings. Any **Independent Competitive Softball and Baseball Teams** can equally reserve practice time after the Parks and Rec teams reserve their times. Usually there is a meeting to sort out the feild times and reservations. This can happen between April and June and, again, between July and September. 
 
@@ -70,7 +70,7 @@ However, there are qualifications to reserve the fields:
 * 75% of team must attend Indianola Schools
 * Must submit a rost with names and info of all the coaches and players
 * Pay in advance for reservations
-	* $10 per 75-minute practice time
+   * $10 per 75-minute practice time
 
 If the **Indianola Little League Baseball Teams** or anyone else wants to reserve a field, they must call one week in advance and the fee must be paid at that time
 
@@ -79,21 +79,21 @@ If the **Indianola Little League Baseball Teams** or anyone else wants to reserv
 Cross Country
 ^^^^^^^^^^^^^
 
-**Pickard Park** has a one-mile Terrace Trail and a two-mile Pond & Prairie trail, mowed and marked trail loops that starts near the shelter. These loops and land is very commonly used for Cross Country meets hosted by Indianola Schools and Simpson College. The **McVay Trail** is a 1.6 mile paved route that can take you to **Pickard Park**.
+**Pickard Park** has a 1-mile Terrace Trail and a 2-mile Pond & Prairie trail, mowed and marked trail loops that starts near the shelter. These loops and land is very commonly used for Cross Country meets hosted by Indianola Schools and Simpson College. The **McVay Trail** is a 1.6 mile paved route that can take you to **Pickard Park**.
 
 .. _Discgolf:
 
 Disc Golf
 ^^^^^^^^^
 
-.. figure:: pickard_map.png
+.. figure:: disc_golf_map
    :height: 1800px
    :width: 1700px
    :scale: 30%
    :alt: alternate text
    :align: center
 
-   Disc Golf Course [#f1]_ 
+   Disc Golf Course [#f2]_ 
 
 There is an 18-hole disc golf course located east of the **Pickard Park** shelter. It is free to play. You can find scorecards at the information kiosk near the course.
 
@@ -105,15 +105,15 @@ Campground
 .. warning:: TEMPORARLY CLOSED (12/2/2020)
 
 .. attention:: 
-	2020 COVID UPDATE
+   2020 COVID UPDATE
 
-	- Only self-contained units are allowed 
-	- No guests allowed; only campers 
-	- Only family units allowed in each campsite 
-	- No groups larger than 10 
-	- Social distance 
-	- Stay at home if you've been sick in the past two weeks
-	- Avoid popular areas 
+   - Only self-contained units are allowed 
+   - No guests allowed; only campers 
+   - Only family units allowed in each campsite 
+   - No groups larger than 10 
+   - Social distance 
+   - Stay at home if you've been sick in the past two weeks
+   - Avoid popular areas 
 
 Regulations
 ^^^^^^^^^^^
@@ -137,9 +137,7 @@ Campground spots cannot be reserved, as there are available on a first-come, fir
 
 .. rubric:: Footnotes
 
-.. [#f1] Disc Golf Course <http://www.indianolaiowa.gov/Facilities/Facility/Details/-28>`_". City of Indianola. Retrieved 2020-12-02.
-.. [#f2] Baseball Game <http://www.indianolaiowa.gov/Facilities/Facility/Details/-12>`_". City of Indianola. Retrieved 2020-12-02.
-
-
+.. [#f1] "`Baseball Game <http://www.indianolaiowa.gov/Facilities/Facility/Details/-12>`_". City of Indianola. Retrieved 2020-12-02.
+.. [#f2] "`Disc Golf Course <http://www.indianolaiowa.gov/Facilities/Facility/Details/-28>`_". City of Indianola. Retrieved 2020-12-02.
 
 
