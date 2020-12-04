@@ -8,7 +8,7 @@ A part of the park was donated to the city of Indianola by the Buxton family, he
 Map
 ---
 
-.. figure:: buxtonmap.png
+.. image:: buxtonmap.png
 	:height: 700px
 	:scale: 50%
 	:align: center
@@ -94,7 +94,7 @@ Park Scavenger Hunt
 -------------------
 The City of Indianola has a scavenger hunt sheet for anyone who would like it, although it is namely used for children to explore nature.
 
-.. figure:: scavengerhunt.png
+.. image:: scavengerhunt.png
 	:height: 1500px
 	:scale: 50%
 	:align: center
