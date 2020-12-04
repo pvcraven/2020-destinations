@@ -3,6 +3,10 @@ Summerset Trail
 
 The **Summerset Trail** connects the **Indianola** and **Carlisle** communities. If you start out of Indianola, and as you pass **Outside Scoop**, there are a couple of no-signal street crossings where you are going to need your patience. Once you get past that, the number of houses begin to decrease and the scene turns rural nature fast. There is a ton of tree shade throughout this trail. You will see a lot of farmland and some farm animals as well. Halfway through the route, you have the option of entering Summerset State Park and riding or walking around Banner Lakes.
 
+.. attention:: Heads up! There are only 3 restroom locations. Indianola's trail head has restrooms with running water. The Carlisle trail head and Banner Lakes have pit toilets.
+
+.. note:: There is a slight incline going South. It is recommended that you start your bike ride from the North, if you want an easy cool down ride.
+
 `Click here for a map of the trail <https://www.warrenccb.org/wp-content/uploads/2014/08/STmap.pdf>`_.
 
 Trail Facts
